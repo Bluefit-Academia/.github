@@ -1,5 +1,5 @@
 
-**<h1 align="center">Bluefit - Análises Estratégicas de Negócio</h1>**
+**<h1 align="center">Bluefit :blue_heart:</h1>**
 <p>Bem-vindo ao repositório da Bluefit Academia no GitHub! Este espaço é dedicado ao compartilhamento de análises estratégicas de negócio realizadas pelo time de Dados/BI da Bluefit.</p>
 
 <h2 align="center"> Sobre a Bluefit</h2>
