@@ -14,6 +14,6 @@
 
 
 <h2 align ="center">Contato</h2>
-<p>Para mais informações sobre as análises estratégicas de negócio da Bluefit, entre em contato conosco:</p>
+<p>Para mais informações sobre as análises e estudos estratégicos da Bluefit, entre em contato conosco:</p>
 
 <p>Email: dados@bluefit.com.br</p>
