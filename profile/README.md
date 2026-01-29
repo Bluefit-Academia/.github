@@ -5,7 +5,7 @@
 <h2 align="center"> Sobre a Bluefit</h2>
 <p>A Bluefit é uma rede de academias comprometida em proporcionar acesso fácil e conveniente à prática de atividades físicas. Nosso objetivo é eliminar as desculpas e tornar o exercício parte integrante do estilo de vida de nossos clientes.</p>
 
-<h2 align ="center">Análises Estratégicas de Negócio</h2>
+<h2 align ="center">Produtos e projetos</h2>
 <p>Neste perfil, você encontrará automações, pipelines, análises realizadas pelo time de Dados  da Bluefit. Nosso objetivo é utilizar dados para:</p>
 
 * <p>Ingerir dados de forma eficiente.</p>
